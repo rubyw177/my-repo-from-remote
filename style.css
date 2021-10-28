@@ -5,7 +5,6 @@ as {
 
 #footer {
     width: 100%;
-<<<<<<< HEAD
    height: 50px;
    position: absolute;
    bottom: 0;
@@ -14,14 +13,7 @@ as {
    text-align: center;
    color: white;
 }
-=======
-    height: 50px;
-    line-height: 50px;
-    background-color: burlywood;
-    text-align: center;
-    color: white;
- }
->>>>>>> dev-01
+
 
 #header {
 
@@ -49,3 +41,7 @@ as {
     border: 1px solid gray;
     border-radius: 6px;
  }
+
+ #profile-job {
+    text-align: center;
+}
